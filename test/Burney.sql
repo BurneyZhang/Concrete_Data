@@ -1,2 +1,0 @@
--- This is a sql file
--- This will create a new branch
