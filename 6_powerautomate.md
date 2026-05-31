@@ -37,4 +37,4 @@ Ocp-Apim-Subscription-Key: <redacted>
         - 👍 efficent 
         - 👍 evrything is in the same place 
 
-    - teams message to notify successful run 
+    - Teams message to notify successful run 
